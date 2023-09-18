@@ -1,7 +1,15 @@
-# crypt
-Crypt  mobile game
+# Сrypt
+## Crypt mobile game 
+Made by Unity technologies.
 
-#Technologies:
+## Technologies:
 Unity Engine
-C# back - end with Unity packages
+C# - Program Logic.
+
+## How to use:
+1. Download actual APK.
+2. Install Application.
+3. Open App.
+
+# THIS IS EARLY BUILD! You may have some throubles with this Application. 
 
