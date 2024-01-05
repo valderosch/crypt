@@ -3,7 +3,7 @@
 Made by Unity technologies.
 
 ## Technologies:
-**Unity Engine** - Layout and rendering.
+**Unity Engine** - Layout and rendering. \
 **C#** - Program Logic.
 
 ## How to use:
@@ -23,3 +23,4 @@ Made by Unity technologies.
 - Daily reward💰.
 - Add levels✔.
 
+So, you can finish program as you want. With all good wishes **@valderosh** ❤😉
